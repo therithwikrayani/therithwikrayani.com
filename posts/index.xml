@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>https://www.therithwikrayani.com/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Mar 2023 15:33:33 -0500</lastBuildDate><atom:link href="https://www.therithwikrayani.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello There</title>
+      <link>https://www.therithwikrayani.com/posts/hello-there/</link>
+      <pubDate>Mon, 27 Mar 2023 15:33:33 -0500</pubDate>
+      
+      <guid>https://www.therithwikrayani.com/posts/hello-there/</guid>
+      <description>Hello There! I&amp;rsquo;m Rithwik, a student in Electrical Engineering at the University of Illinois at Urbana-Champaign.
+This site will be my outlet of random thoughts I have and different things I&amp;rsquo;m exploring.</description>
+      <content>&lt;h2 id=&#34;hello-there&#34;&gt;Hello There!&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m Rithwik, a student in Electrical Engineering at the University of Illinois at Urbana-Champaign.&lt;/p&gt;
+&lt;p&gt;This site will be my outlet of random thoughts I have and different things I&amp;rsquo;m exploring.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
