@@ -11,7 +11,7 @@ pluralizelisttitles = false
     description = "The Whims of a Curious Electrical Engineer."
     dark_mode = true
     menu = [
-            {Name = "About", URL = "/about/", HasChildren = false},
+            # {Name = "About", URL = "/about/", HasChildren = false},
             {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = "10"}
         ]
     
