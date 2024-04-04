@@ -1,0 +1,25 @@
+baseURL = '/'
+languageCode = 'en-us'
+theme = "poison"
+title = "Rithwik Rayani"
+paginate = 10
+pluralizelisttitles = false
+
+
+[params]
+    brand = "Rithwik Rayani"
+    description = "The Whims of a Curious Electrical Engineer."
+    dark_mode = true
+    menu = [
+            {Name = "About", URL = "/about/", HasChildren = false},
+            {Name = "Posts", URL = "/posts/", HasChildren = true, Limit = "10"}
+        ]
+    
+    # Links to Socials
+    email_url = "mailto://therithwikrayani@gmail.com"
+    github_url = "https://github.com/therithwikrayani"
+    linkedin_url = "https://linkedin.com/in/therithwikrayani/"
+
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
